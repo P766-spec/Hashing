@@ -7,7 +7,9 @@ there are different types of hashing techniques such as HashSet, HashTable, Hash
  </br>
 ## Applications
 -Cryptography
+ </br>
 -Dictionary
+</br>
 -RoutersCache
   
 
