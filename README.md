@@ -6,11 +6,8 @@ there are different types of hashing techniques such as HashSet, HashTable, Hash
 <a href="https://www.geeksforgeeks.org/hashing-in-java/" target="_blank">GFG Article<a> 
  </br>
 ## Applications
-  </br>
 -Cryptography
-</br>
 -Dictionary
-</br>
 -RoutersCache
   
 
