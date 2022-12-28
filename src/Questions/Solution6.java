@@ -1,6 +1,6 @@
 package Questions;
+import java.util.*;
 
-import java.util.HashMap;
 
 // Maximum distance between two occurrences of same element in array
 public class Solution6 {
