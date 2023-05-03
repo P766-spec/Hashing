@@ -18,7 +18,7 @@ public class FindTheDifference {
    for(int n : nums2) {
     set2.add(n);
    }
-   Set<Integer> copy = new HashSet<>(set1);
+   HashSet<Integer> copy = new HashSet<>(set1);
    set1.removeAll(set2);
    set2.removeAll(copy);
 
